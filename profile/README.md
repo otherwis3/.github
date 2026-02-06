@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![otherwis3](https://img.shields.io/badge/otherwis3-Daily%20Word%20Games-blueviolet?style=for-the-badge)
-![Community](https://img.shields.io/badge/Join%20Our-Community-green?style=for-the-badge)
+![otherwis3 Daily Word Games badge](https://img.shields.io/badge/otherwis3-Daily%20Word%20Games-blueviolet?style=for-the-badge)
+![Join Our Community badge](https://img.shields.io/badge/Join%20Our-Community-green?style=for-the-badge)
 
 </div>
 
@@ -57,7 +57,7 @@ Love the games? Want to discuss strategies, share your scores, or connect with f
 
 ### **Join our Discord Server!** 🎉
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/5NETk8pGmH)
+[![Join otherwis3 community on Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/5NETk8pGmH)
 
 **[Click here to join!](https://discord.com/invite/5NETk8pGmH)**
 
